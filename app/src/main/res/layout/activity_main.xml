@@ -37,12 +37,12 @@
         android:layout_below="@+id/lin_lay"
         android:orientation="vertical" />
 
-    <TextView android:id="@+id/empty_text"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_below="@id/lin_lay"
-        android:gravity="center"
-        android:textAppearance="?android:textAppearanceLarge"
-        android:text="Search for Books !" />
+    <TextView
+        android:id="@+id/empty_list_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="44sp"
+        android:textColor="@android:color/black"
+        android:layout_below="@+id/lin_lay" />
 
 </RelativeLayout>
