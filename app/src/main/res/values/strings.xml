@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Udacity Book List</string>
+    <string name="book_search">Search for Books!</string>
+    <string name="no_internet">You have no internet connection.</string>
 </resources>

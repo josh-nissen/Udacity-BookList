@@ -28,17 +28,4 @@ public class ResultStrings {
         return mPublisher;
     }
 
-    // Setter methods
-    public void setTitle(String title) {
-        mTitle = title;
-    }
-
-    public void setPublisher(String publisher) {
-        mPublisher = publisher;
-    }
-
-    public void setAuthor(String author) {
-        mAuthor = author;
-    }
-
 }
